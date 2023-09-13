@@ -1,7 +1,6 @@
 - 👋 Oi, meu nome é Thiago
 - 👀 Atualmente eu curso ADS na Faculdade Senac
 - 🌱 Tô aprendendo a programar em C para entender sobre Lógica de programação
-- 💞️ Não procuro ninguém mas se me procurar quem sabe.... KKKKKKKKKKKKKKKKKK
 - 📫 Caso queira falar mais diretamente comigo manda uma DM no insta @th_csilva
 
 <!---
